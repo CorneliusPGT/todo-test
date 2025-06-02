@@ -1,0 +1,48 @@
+.App {
+ text-align: center;
+  padding: 40px;
+  font-size: 30px;
+ 
+}
+
+.active 
+{
+    background-color: #007bff;
+    color: white;
+    border-color: #007bff;
+}
+
+.tasks
+{
+  margin-top: 20px;
+  min-height: 400px;
+}
+
+.task-block__inside
+{
+  align-items: center;
+  justify-content: center;
+  column-gap: 10px;
+  display: flex;
+}
+
+.done 
+{
+  text-decoration: line-through;
+}
+
+p 
+{
+  margin: 0;
+}
+
+input {
+}
+
+.bottom 
+{
+  display: flex;
+  justify-content: center;
+  column-gap: 30px;
+}
+
