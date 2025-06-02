@@ -1,5 +1,6 @@
 {
   "name": "todo-test",
+  "homepage": "https://CorneliusPGT.github.io/todo-test",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
